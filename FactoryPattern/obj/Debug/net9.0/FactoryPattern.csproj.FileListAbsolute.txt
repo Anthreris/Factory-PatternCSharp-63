@@ -13,3 +13,18 @@ C:\Users\Harpe\Desktop\NET9\Factory-Pattern\FactoryPattern\obj\Debug\net9.0\refi
 C:\Users\Harpe\Desktop\NET9\Factory-Pattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.pdb
 C:\Users\Harpe\Desktop\NET9\Factory-Pattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.genruntimeconfig.cache
 C:\Users\Harpe\Desktop\NET9\Factory-Pattern\FactoryPattern\obj\Debug\net9.0\ref\FactoryPattern.dll
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\bin\Debug\net9.0\FactoryPattern.exe
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\bin\Debug\net9.0\FactoryPattern.deps.json
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\bin\Debug\net9.0\FactoryPattern.runtimeconfig.json
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\bin\Debug\net9.0\FactoryPattern.dll
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\bin\Debug\net9.0\FactoryPattern.pdb
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.sourcelink.json
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.dll
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\refint\FactoryPattern.dll
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.pdb
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\Garrett Chitwood\Desktop\repos\Factory-PatternCSharp-63\FactoryPattern\obj\Debug\net9.0\ref\FactoryPattern.dll
